@@ -41,7 +41,7 @@ Aim is to model the price of houses with the available independent variables. Th
 ## Data preparation
 
 - Importing and understading the data.
-- Miising value treatment and outlier analysis
+- Missing value treatment and outlier analysis
 - Exploratory data analysis to find out the inference about the data and its correlation with the target variables.
 - Tranformation of the target variable to handle the data skewness.
 - Data preprocession like Label encoding and ceration of dummies.
