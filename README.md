@@ -39,12 +39,15 @@ Aim is to model the price of houses with the available independent variables. Th
 - check correlation between the variables 
 
 ## Data preparation
-- clean the data structure
-- drop unneccessary variables
-- create dummy variables for all categorical features
-- divide the data to train and test
-- perform scaling
-- divide data into dependent and independent variables
+
+- Importing and understading the data.
+- Miising value treatment and outlier analysis
+- Exploratory data analysis to find out the inference about the data and its correlation with the target variables.
+- Tranformation of the target variable to handle the data skewness.
+- Data preprocession like Label encoding and ceration of dummies.
+- Test train split and Feature scaling
+- Data modelling using RFE to identify the top 30 variables.
+- Ridge and Lasso Regression to find the top feature variables and finding the optimal alpha value
 
 ## Data modelling and evaluation
 - create linear regression model with no Regularisation
