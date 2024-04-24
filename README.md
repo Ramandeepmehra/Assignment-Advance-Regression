@@ -49,7 +49,7 @@ Aim is to model the price of houses with the available independent variables. Th
 ## Data modelling and evaluation
 - create linear regression model with no Regularisation
 - create models using Ridge and Lasso Regularisation
-- create additional models model using mixed approach (RFE & VIF/p-Value) and apply Ridge Regularisation
+- create additional models model using mixed approach (RFE & VIF/p-Value) and apply Ridge and lasso Regularisation
 - report the final model
 
 
@@ -78,8 +78,8 @@ Please see the notebook for more detailed insights.
 
 
 ## Contact
-Created by [@GeriNZ](https://github.com/GeriNZ) - feel free to contact me! <br>
-Student at UpGrad: *Master of Science in ML and AI* <br>
+Created by [Ramandeep Mehra](https://github.com/Ramandeepmehra) - feel free to contact me! <br>
+Student at UpGrad: *upGrad and IIITB Machine Learning & AI Program-Dec 2023* <br>
 © 2024
 
 
