@@ -59,9 +59,8 @@ Aim is to model the price of houses with the available independent variables. Th
 
 ## Conclusions
 Please see the notebook for more detailed insights.
-1. `GrLivArea` is by far the most important predictor
-2. The top variables are intuitive.
-3. Lasso is the chosen model for the final model, because it creates a simple model with the top features.
+1. The top variables are intuitive.
+2. Lasso is the chosen model for the final model, because it creates a simple model with the top features.
 
 
 
