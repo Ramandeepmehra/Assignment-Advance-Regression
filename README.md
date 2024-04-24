@@ -1,5 +1,5 @@
 # Advanced Regression Assignment
-> Project by Géraldine Bengsch (Third Upgrad Assignment) <br>
+> Project submitted by Ramandeep Mehra <br>
 >
 > This project uses Regularisation to build a polynomial regression model for the prediction of the actual value of the prospective properties and decide whether to invest in them or not.
 > - Which variables are significant in predicting the price of a house
@@ -7,7 +7,6 @@
 >
 > The project contains:
 > - Data Analysis notebook
-> - A folder containing images used (Visualisations are my own, picture is from Unsplash)
 > - The data set `train.csv`
 > - The data dictionary `datainfo.txt`
 > - Answers to the Subjective Questions in pdf format `SubjectiveQuestions.pdf`
@@ -22,11 +21,6 @@
 
   
 ## General Information
-  
-
-![Photo by <a href="https://unsplash.com/@erol?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Erol Ahmed</a> on <a href="https://unsplash.com/s/photos/house-before-after?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>](img/erol-ahmed-FTy5VSGIfiQ-unsplash.jpg)
-  
-
 
 
 - **General information:** 
@@ -86,6 +80,6 @@ Please see the notebook for more detailed insights.
 ## Contact
 Created by [@GeriNZ](https://github.com/GeriNZ) - feel free to contact me! <br>
 Student at UpGrad: *Master of Science in ML and AI* <br>
-© 2022
+© 2024
 
 
