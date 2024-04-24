@@ -46,7 +46,7 @@ Aim is to model the price of houses with the available independent variables. Th
 - Tranformation of the target variable to handle the data skewness.
 - Data preprocession like Label encoding and ceration of dummies.
 - Test train split and Feature scaling
-- Data modelling using RFE to identify the top 30 variables.
+- Data modelling using RFE to identify the top 10 variables.
 - Ridge and Lasso Regression to find the top feature variables and finding the optimal alpha value
 
 ## Data modelling and evaluation
